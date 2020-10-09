@@ -1,7 +1,4 @@
-*Travelling*
+**Welcome to My page**
+*A small attempt to build a webage* 
+_Hope you all liked it_
 
-_Painting_
-
-**Drawing**
-
-__Listening Music__
