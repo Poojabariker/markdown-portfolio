@@ -2,5 +2,5 @@
 
 *A small attempt to build a webage* 
 
-_Hope you all liked it_
+__THANK YOU__ __Have a Great Day__
 
